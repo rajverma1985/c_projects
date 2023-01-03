@@ -1,4 +1,11 @@
 *.DS_Store
+*.json
+Debug
+*.clang-format
+*.clangd
+*.mk
+*.project
+*.txt
 *.cache
 *.codelite
 *.ctagsd
